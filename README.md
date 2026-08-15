@@ -1,4 +1,3 @@
-# Hyperliquid-Leaderboard-Analytics
 <div align="center">
 
 # 📊 Hyperliquid Leaderboard Analytics
